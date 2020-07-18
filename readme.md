@@ -1,4 +1,4 @@
-MeshCentral
+ConectArte: MeshCentral
 ===========
 
 For more information, [visit MeshCommander.com/MeshCentral2](https://www.meshcommander.com/meshcentral2).
